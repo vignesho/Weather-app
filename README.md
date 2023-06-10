@@ -1,15 +1,27 @@
-# Weather-app
-Weather Applicattion using AngularJS and Rapid API
+# Weather
 
-<img width="400" height="auto" src="https://github.com/vignesho/Weather-app/assets/91514261/cdccae5c-862c-47cd-b4ee-396a70fd82fd">
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
-Steps to run the Weather-app on your device.
+## Development server
 
-1. Download the Repository as a zip file/ clone it.
-2. Open to folder in VS code.
-3. Go to https://rapidapi.com/category/Weather and choose any API's that you like.
-4. Generate an API key for your API and paste it in the API key section in the code.
-5. Open a terminal.
-6. Run the command ng serve.
-7. The application will be built and run in your local machine.
-8. On the search bar type the city name you want to see the weather for.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
